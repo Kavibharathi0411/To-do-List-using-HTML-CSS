@@ -1,0 +1,30 @@
+.title{
+    display: flex;
+  flex-direction: column;
+  padding: 0px 75px 10px 30px;
+  background-color: darkgreen;
+  width:70px;
+}
+form{
+    background-color:rgb(148, 87, 206);
+    padding-left: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.form{
+    background-color: rgb(1, 49, 1);
+    color: white;
+    width:250px;
+    height:150px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+}
+.line{
+    text-decoration: line-through;
+}
+.line1{
+    text-decoration: line-through;
+}
